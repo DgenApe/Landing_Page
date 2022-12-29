@@ -5,3 +5,6 @@ My job is to recreate the webpage from a blank CSS and HTML file
 I feel as though I am a 9/10 prepared for this.
 I have taken copious notes on the entirety of TOP and have practiced nonstop.
 I am excited to put my skills to the test by recreating this landing page
+
+
+I have finished the landing page in a little over 2 hours.
